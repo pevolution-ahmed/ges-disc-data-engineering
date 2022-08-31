@@ -1,1 +1,5 @@
 .dodsrc
+.vscode/
+downloaded_files/
+output_png_files/
+logs/
