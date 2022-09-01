@@ -26,3 +26,4 @@ These datasets are about air temperature satellite data and it's an multidimensi
 ## Transformation Output Sample:
 
 ![image](https://user-images.githubusercontent.com/43514480/187806676-e4daa8c4-0d2c-467a-b9a4-b5b31a805b05.png)
+for more details about the transformation process check out [this notebook](https://github.com/pevolution-ahmed/ges-disc-data-engineering/blob/main/GES-DISC%20Nasa%20Temperature%20Analysis.ipynb).
