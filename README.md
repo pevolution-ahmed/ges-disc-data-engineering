@@ -25,3 +25,4 @@ These datasets are about air temperature satellite data and it's an multidimensi
 - Test the response of the session is coming back with status 200 or not.
 ## Transformation Output Sample:
 
+![image](https://user-images.githubusercontent.com/43514480/187806676-e4daa8c4-0d2c-467a-b9a4-b5b31a805b05.png)
