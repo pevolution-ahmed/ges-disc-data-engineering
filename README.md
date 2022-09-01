@@ -1,7 +1,7 @@
 # GES DISC Data Engineering
 **GES DISC**: is the home (archive) of NASA Precipitation and Hydrology, as well as Atmospheric Composition and Dynamics remote sensing data and information.
 
-## Project Ideation:
+## Project Ideation (Problem Statement):
 - Create a data Pipeline to extract and transform .nc4 files from nasa ges-disc to png images files , and then upload those files into GCS bucket using Apache Airflow.
 ## Environment Creation:
 - Create a virtual environment using venv built in module in python
@@ -14,7 +14,7 @@
 
 ## Data Description:
 These datasets are about air temperature satellite data and it's an multidimensional geographic data.
-## Project Structure:
+## Project To-do:
 - Use Airflow to execute on the following python callable functions:
     - Create Validation Files and Authenticate users to be able to use ges-disc API
     - Extract the data from ges-disc API.
@@ -23,3 +23,5 @@ These datasets are about air temperature satellite data and it's an multidimensi
 ## Test Use cases:
 - Test whether the username and the password is exists in the environment variables or not.
 - Test the response of the session is coming back with status 200 or not.
+## Transformation Output Sample:
+
