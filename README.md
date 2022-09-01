@@ -6,7 +6,7 @@
 ## Environment Creation:
 - Create a virtual environment using venv built in module in python
 - Enter your virtual environment and setup 'requirements.txt' file as follows
-    `pip install requirements.txt`
+    `pip install -r requirements.txt`
 - Download the Cloud Provider connection SDK, in this project we use GCP
     - Install gcloud SDK to enable the gcloud cli in your terminal
     - use `gcloud init` command to initialize the connection
